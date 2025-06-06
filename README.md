@@ -38,6 +38,7 @@ The embedded LLM models (Ollama 3.2 or DeepSeek R1) are used to **parse and extr
 - Ollama 3.2 / DeepSeek R1 (LLMs)
 - BrightData Proxies
 
+we can make use of playwright which have a better support for streamlit
 ---
 
 ### 📦 Installation
